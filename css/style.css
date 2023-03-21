@@ -39,3 +39,6 @@ main {
 .unsafe{
     background-color: red;
 }
+.square span {
+    opacity: 0;
+}
